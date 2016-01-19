@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/src/hw2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/CS61B"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

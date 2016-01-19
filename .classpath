@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lab2/|lab2/" including="*.java" kind="src" path="src"/>
+	<classpathentry excluding="src/|src/lab2/" kind="src" path=""/>
+	<classpathentry kind="src" path="src/lab2"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/algs4-package.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/algs4.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/checkstyle-5.9-all.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/gjdb.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/StaffGitlet_obf.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/staffp0_obf.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/stdlib-package.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/stdlib.jar"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/xchart-2.4.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/HuangXiang/Documents/workspace/CS61B_works/jars/jh61b.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

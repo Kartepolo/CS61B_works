@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CS61B_works</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1433415785818</id>
+			<name>src</name>
+			<type>13</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.andFilterMatcher</id>
+				<arguments>
+				</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
